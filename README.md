@@ -49,5 +49,4 @@ Project Developed & Maintained by Dheeraj Pathak
 
 🎯 Full Stack Developer | Travel-Tech Innovator | AIML Explorer
 
-📬 For queries or collaborations, contact me here
 
